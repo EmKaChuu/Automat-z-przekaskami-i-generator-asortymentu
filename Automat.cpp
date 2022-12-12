@@ -88,7 +88,7 @@ int main(){
 	
 	
 	
-	
+	asortyment.close();
 	
 	return 0;
 }
