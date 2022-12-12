@@ -64,7 +64,6 @@ int main(){
 	nowyProdukt();
 	
 }
-	
-	
+		asortyment.close();
 	return 0;
 }
